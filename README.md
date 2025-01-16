@@ -1,6 +1,6 @@
 # Machine Learning and Computing for Economics
 
-This repository contains projects completed during my graduate-level course on Machine Learning and Computing for Economics as part of my Master's program in Econometrics. The coursework integrated advanced computational techniques and machine learning applications with economic analysis, providing practical experience in data handling, model selection, and numerical optimization.
+This repository contains projects completed during my machine learning and computing for economics course. The coursework integrated advanced computational techniques and machine learning applications with economic analysis, providing practical experience in data handling, model selection, and numerical optimization.
 
 ## Repository Structure
 
