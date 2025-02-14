@@ -4,7 +4,7 @@ This repository contains projects completed during my machine learning and compu
 
 ## Repository Structure
 
-The repository is organized into the following folders:
+The projects directory is organized into the following folders:
 
 1. **api**
 
